@@ -1,1 +1,1 @@
-# Anagram-Generator-COL106
+# Anagram-Generator
