@@ -22,4 +22,4 @@ Two strings are anagrams of each other if by rearranging the letters of one stri
 
 > javac Anagram.java
 
-> java Anagram Path to vocabulary file input.txt
+> java Anagram <Vocabulary file (.txt)> <Input file (.txt)>
